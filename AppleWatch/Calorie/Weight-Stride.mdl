@@ -1,10 +1,10 @@
 Model {
-  Name			  "DemoAdd"
+  Name			  "DemoAdd1"
   Version		  8.4
   MdlSubVersion		  0
-  SavedCharacterEncoding  "windows-1252"
+  SavedCharacterEncoding  "windows-12521"
   GraphicalInterface {
-    NumRootInports	    2
+    NumRootInports	    21
     Inport {
       Name		      "In3"
       BusObject		      ""
