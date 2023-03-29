@@ -1,12 +1,12 @@
 Model {
-  Name			  "DemoAbs"
-  Version		  7.9
+  Name			  "DemoAbs1"
+  Version		  7.91
   MdlSubVersion		  0
   GraphicalInterface {
-    NumRootInports	    1
+    NumRootInports	    11
     Inport {
       BusObject		      ""
-      Name		      "In1"
+      Name		      "In11"
     }
     NumRootOutports	    1
     Outport {
